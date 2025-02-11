@@ -2,9 +2,9 @@
 ![Logo](https://imgur.com/VE1nWC7.png)
 
 
-# FQQD's MCServer Website Template 1.0
+# CCTIERS
 
-A template for a modern looking website to promote your Minecraft server.
+MINECRAFT TIER TESTING COMPANY 
 
 Written with HTML and a lot of CSS and the minimal usage of JavaScript.
 
